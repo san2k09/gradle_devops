@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>gradle-war</title>
+    <title>RELEASE - 1 </title>
 </head>
 <body>
     <h1>gradle-war</h1>
