@@ -41,7 +41,7 @@ public class HelloServlet extends HttpServlet {
 
     LOG.info(msg);
 
-    out.println("Hello, world!");
+    out.println("*******************    RELEASE      1      ************************");
     out.println(msg);
     out.close();
   }
