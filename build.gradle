@@ -1,12 +1,17 @@
 plugins {
-    id 'java'
+    id "org.joinfaces" version "4.0.1"
 }
+apply plugin: 'war'
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
 
 repositories {
-    jcenter()
+    mavenCentral()
 }
 
 dependencies {
-    compile 'com.google.guava:guava:23.0'
-    testCompile 'junit:junit:4.12'
+    compile "org.joinfaces:jsf-spring-boot-starter"
+    providedRuntime "org.joinfaces:tomcat-spring-boot-starter"
+
+    testCompile "org.springframework.boot:spring-boot-starter-test"
 }
