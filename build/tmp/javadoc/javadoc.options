@@ -1,6 +1,0 @@
--classpath '/devops/jfrog/jenkinpoc/JenkinsHome/workspace/gradel_dev1/build/classes/java/main:/devops/jfrog/jenkinpoc/JenkinsHome/workspace/gradel_dev1/build/resources/main:/home/admin/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar'
--d '/devops/jfrog/jenkinpoc/JenkinsHome/workspace/gradel_dev1/build/docs/javadoc'
--doctitle 'gradel_dev1 API'
--quiet 
--windowtitle 'gradel_dev1 API'
-'/devops/jfrog/jenkinpoc/JenkinsHome/workspace/gradel_dev1/src/main/java/Hello.java'

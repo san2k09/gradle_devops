@@ -1,5 +1,0 @@
-org.joinfaces.example.WarExampleApplication
-org.springframework.boot.autoconfigure.jersey.JerseyAutoConfiguration$JerseyWebApplicationInitializer
-org.springframework.boot.web.servlet.support.SpringBootServletInitializer
-org.springframework.web.context.AbstractContextLoaderInitializer
-org.springframework.web.server.adapter.AbstractReactiveWebInitializer
